@@ -1,4 +1,3 @@
-**Algovate**  
 Independent AI studio. We turn emerging AI capability into open tools, working systems, and durable ventures.
 
 **Focus:** AI infrastructure, intelligent products, and venture incubation.
@@ -15,4 +14,3 @@ Independent AI studio. We turn emerging AI capability into open tools, working s
 
 **How we work:** Open source is how we learn in public. Build quickly, publish openly, follow adoption, invest deeply.
 
-<sub>Algovate · Intelligence in Motion · United States</sub>
