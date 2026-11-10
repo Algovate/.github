@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/banner-mobile.png">
-    <img src="assets/banner.png" alt="Algovate, Intelligence in Motion" width="100%">
+    <source media="(max-width: 600px)" srcset="assets/banner-mobile-2026.png">
+    <img src="assets/banner-desktop-2026.png" alt="Algovate, Intelligence in Motion" width="100%">
   </picture>
 </p>
 
